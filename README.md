@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 git clone git@github.com:AScriver/gameboy-hangman.git
-cd gif-search
+cd gameboy-hangman
 ```
 
 ## Built With
